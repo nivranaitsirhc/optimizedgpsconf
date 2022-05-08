@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "versionCode": 100100,
-  "zipUrl": "https://raw.githubusercontent.com/nivranaitsirhc/optimizedgpsconf/install.zip",
-  "changelog": "https://raw.githubusercontent.com/nivranaitsirhc/optimizedgpsconf/changelog.md"
+  "version": "1.2.0",
+  "versionCode": 100200,
+  "zipUrl": "https://raw.githubusercontent.com/nivranaitsirhc/optimizedgpsconf/master/install.zip",
+  "changelog": "https://raw.githubusercontent.com/nivranaitsirhc/optimizedgpsconf/master/changelog.md"
 }
