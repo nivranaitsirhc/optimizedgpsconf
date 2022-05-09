@@ -1,10 +1,10 @@
 # **Optimized GPS Conf**
 ## Description
-Replaces the android default gps.conf which is miconfigured most of the time.
+A magisk module that replaces the android default gps.conf which is miconfigured most of the time.
 
-Fork from Original Module - https://github.com/JonasCardoso/optmizedgpsconf
+Fork from Module - <a href=https://github.com/JonasCardoso/optmizedgpsconf>optmzedgpsconf by Jonas Cardoso</a>
 
-## DISCLAMER
+## DISCLAIMER
 This module is provided as-is. Always use the stable version.
 
 ## Versioning
