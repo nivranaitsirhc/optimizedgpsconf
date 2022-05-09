@@ -1,7 +1,7 @@
 id=optimizedgpsconf
 name=Optimized GPS Conf
-version=1.2.1
-versionCode=100201
+version=1.2.2
+versionCode=100202
 author=nivra.naitsirhc
 description=An optimized gps.conf replacement for Android devices.
 updateJson=https://raw.githubusercontent.com/nivranaitsirhc/optimizedgpsconf/master/update.json

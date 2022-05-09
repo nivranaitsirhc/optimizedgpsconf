@@ -1,4 +1,6 @@
-### 1.2.1 - 2022-05-08
+### 1.2.2 - 2022-05-09
+* updated gps.conf parameters
+### 1.2.1 - 2022-05-09
 * reverted 1.3.0
 * include posf-fs-data
 ### 1.2.0 - 2022-05-08
