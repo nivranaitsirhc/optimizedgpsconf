@@ -1,3 +1,5 @@
+### 1.2.3 - 2022-05-09
+* some minor aesthetic changes
 ### 1.2.2 - 2022-05-09
 * updated gps.conf parameters
 ### 1.2.1 - 2022-05-09
