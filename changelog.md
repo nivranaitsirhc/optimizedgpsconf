@@ -1,3 +1,5 @@
+### 1.2.5 - 2022-05-22
+* set NMEA_PROVIDER & SGLTE_TARGET to 1
 ### 1.2.4 - 2022-05-15
 * updated gps.conf supl parameters
 ### 1.2.3 - 2022-05-09
